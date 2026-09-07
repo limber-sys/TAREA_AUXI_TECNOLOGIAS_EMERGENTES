@@ -1,1 +1,53 @@
-# TAREA_AUXI_TECNOLOGIAS_EMERGENTES
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TAREA DE AUXILIATURA TECNOLOGIAS EMERGUENTES</title>
+<style>
+    body {
+        background-color: #111f3d;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: 'Arial', sans-serif;
+    }
+
+    .card {
+        background-color: #1a1a1a;
+        border: 4px solid #00e6c3;
+        padding: 35px 45px;
+        text-align: center;
+        width: 420px;
+        box-sizing: border-box;
+    }
+
+    .card h1 {
+        color: #00e6c3;
+        font-size: 26px;
+        font-weight: 800;
+        margin: 0 0 18px 0;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        line-height: 1.3;
+    }
+
+    .card p {
+        color: #ffffff;
+        font-size: 15px;
+        margin: 0;
+        line-height: 1.6;
+    }
+</style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>TECNOLOGÍAS<br>EMERGENTES</h1>
+        <p>Primera sesión práctica de laboratorio. ¡ Abre tu editor y comienza a programar :) !</p>
+    </div>
+
+</body>
+</html>
